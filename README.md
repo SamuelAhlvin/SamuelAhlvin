@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-### ⚡ Software development student
-### 🔭 I’m currently working on my Bachelor thesis in Software Development
+### ⚡ Software development graduate
+### 🔭 Currently open for work
 ### 📫 How to reach me: ahlvinsamme@gmail.com
